@@ -1,0 +1,6 @@
+.env/
+.idea/
+.ipynb_checkpoints/
+models/
+data/train.csv
+data/test.csv
